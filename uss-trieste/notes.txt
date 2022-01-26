@@ -1,0 +1,13 @@
+**Notes**
+
+1. Flutter app cannot run using "flutter run" command in CLI. (Gradle issue) ***
+	- 
+
+2. Pits and mines functionality are complete. Still needs to be put into mobile app. (in progress thingy)
+
+3. No Widget testing ***
+	- Understanding the concept within the remaining time did not seem possible.
+	- Time was limited.
+	- We decided to allocate our attention to refining our project and fix any bugs that may have been present already.
+
+Uss-trieste rocks

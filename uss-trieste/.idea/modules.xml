@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/robot-worlds-client/robot-worlds-client.iml" filepath="$PROJECT_DIR$/robot-worlds-client/robot-worlds-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot-worlds-server/robot-worlds-server.iml" filepath="$PROJECT_DIR$/robot-worlds-server/robot-worlds-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uss-trieste.iml" filepath="$PROJECT_DIR$/uss-trieste.iml" />
+    </modules>
+  </component>
+</project>

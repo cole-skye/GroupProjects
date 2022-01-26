@@ -1,0 +1,19 @@
+stages:
+  - build
+  - compile
+  - test
+
+build:
+  stage: build
+  script:
+    - docker build -t uss-trieste .
+
+compile:
+  stage: compile
+  script:
+    - docker run uss-trieste make compile
+
+test-socket-server:
+  stage: test
+  script:
+    - docker run uss-trieste make test-project
